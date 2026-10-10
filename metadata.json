@@ -1,0 +1,6 @@
+{
+  "name": "MOBEAN - Financial Copilot Generasi Sandwich",
+  "description": "Aplikasi perencanaan keuangan cerdas dan ketahanan finansial khusus generasi sandwich Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
